@@ -1,0 +1,10 @@
+.rainbow{
+    height: 50px;
+    width: 900px;
+    background-image: linear-gradient(to left,violet,indigo,blue,green,yellow,orange,red);
+}
+.rainbow>span{
+    display: flex;
+    justify-content: center;
+    color: grey;
+}

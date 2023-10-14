@@ -1,0 +1,23 @@
+.child1{
+    background-color: orange;
+    padding: 70px;
+    border:100px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    
+}
+.child2{
+    background-color: #205050;
+    padding: 20px;
+    border:100px;
+    width: 200px;
+    height: 200px;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center; 
+}

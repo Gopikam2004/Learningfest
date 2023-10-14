@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.child{
+    background-color: #97aac2;
+    margin-top: 30px;
+    width: 300px;
+    padding: 70px;
+    text-align: center;
+    border: 20px solid #0c251d;
+}
