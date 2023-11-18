@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0%;
+}
+.image1{
+    background-image: url(Jeddah_Home-Grown.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 20%;
+}
+.box1{
+    text-align: center;
+    font-style: italic;
+    font-size:xx-large;
+    color: white;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li {
+    margin: 0 15px;
+}
+h2{
+    text-align: center;
+}
+.p1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: green;
+    font-size: x-large;
+}
+h3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+.p2{
+    text-align: center;
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+}
+.dress{
+    display:inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+.dress img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+h6{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+footer {
+    background-color: pink;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    color: black;
+  }
